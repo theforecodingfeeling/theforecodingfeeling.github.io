@@ -1,0 +1,31 @@
+# Site settings
+title: "Dev Journal"
+email: theforecodingfeeling@gmail.com
+description: "A deeper dive into my journey into code"
+baseurl: ""
+url: "http://theforecodingfeeling.github.io/"
+title_description: "Just a teacher turned techie and aspiring web dev documenting her thoughts, frustrations, motivations and insights on this journey of self-taught discovery into the land of web development and programming."
+title_image: "https://previews.dropbox.com/p/thumb/AAhIK-epeBv9Q7KXiaueaBHzmACjFkRC2sW7WmWZ8E9l_bqpBjj24ZA_jj2Tt7c2297YObDD_Co-MARCxQnlwiFVxR0rojNErWI7LXnBYwlsJsdeyH1tA12TUC5QPbheIhC2CH65LRAaBbOldjNaxZRvsI_kMkeNqVgMCTKmpqqmYiZtu0eFFjdo7uMxPoISTIJweQ50bukHUqBPGBiAbKhZUvWoh5V0-3xXigpHZbAwoizudwPEHW2Rgy-Rmr6mAQ5tuzroo0OkvG6TwBnNNoyewNEiQZOx-vMNG9M2l3W5LYOg85BBAgGVkUaPFwZN3nUuE7cQR_5QDeyThhtuNkWk/p.png?fv_content=true&size_mode=5"
+disqus_account: 
+github_repository: https://github.com/theforecodingfeeling
+addthis_id: ra-513c6fa83da6ec67
+post_limit: 5
+
+# Social usernames/URLs
+twitter_username: theforecodingf1
+github_username:  theforecodingfeeling
+instagram_username: theforecodingfeeling
+
+# Footer
+footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/theforecodingf1\">the female behind the code</a>"
+footer_right: "&lt;/&gt; on <a href=\"https://github.com/theforecodingfeeling\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
