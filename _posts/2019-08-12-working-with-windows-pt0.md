@@ -2,7 +2,7 @@
 layout:     post
 title:      Working with Windows (Intro)
 series:     Working with Windows
-date:       2019-08-11 20:00:00
+date:       2019-08-12 21:00:00
 summary:    A step by step retelling of getting started with Windows after using only Linux
 categories: [Windows, Linux]
 tags:
