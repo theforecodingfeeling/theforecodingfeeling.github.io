@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      The 'Why' series Pt. 1, starting my journey
-series:     The 'Why' series
-date:       2019-08-08 20:00:00
-summary:    What I learned from taking a step back to reflect on my motivation behind certain steps within my coding journey.
-categories: [Tech, Personal]
+title:      Working with Windows (Pt. 0 Intro)
+series:     Working with Windows
+date:       2019-08-11 20:00:00
+summary:    A step by step retelling of getting started with Windows after using only Linux
+categories: [Windows, ]
 tags:
- - reflection
+ - operating systems
  - motivation
  - insights
 ---
