@@ -4,7 +4,7 @@ title:      The 'Why' series Pt. 1, starting my journey
 series:     The 'Why' series
 date:       2019-08-08 20:00:00
 summary:    What I learned from taking a step back to reflect on my motivation behind certain steps within my coding journey.
-categories: [Tech, Personal]
+categories: [Coding, Personal]
 tags:
  - reflection
  - motivation

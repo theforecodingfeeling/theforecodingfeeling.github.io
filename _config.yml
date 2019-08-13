@@ -16,8 +16,8 @@ github_username:  theforecodingfeeling
 instagram_username: theforecodingfeeling
 
 # Footer
-footer_left: "Made with <i class=\"fa fa-heart\"></i> by <a href=\"https://twitter.com/theforecodingf1\">the female behind the code</a>"
-footer_right: "&lt;/&gt; on <a href=\"https://github.com/theforecodingfeeling\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
+footer_left: "Made with <i class=\"fa fa-heart\"></i> using <a href=\"https://jekyllrb.com\"> Jekyll </a>"
+footer_right: "&lt;/&gt; hosted on <a href=\"https://github.com/theforecodingfeeling\">Github</a> &nbsp;<i class=\"fa fa-github-alt\"></i>"
 
 # Build settings
 markdown: kramdown
