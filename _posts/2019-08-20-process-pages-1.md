@@ -33,7 +33,7 @@ Now here's the issue I have with Disqus: it's a third party application and pref
 ## Doing research
 I remembered from doing some quick earlier research that there were options out there without having to use a third party application, so my first thought is to look a little more specifically for those instead of the previous and more general "Jekyll blog comments" search I'd conducted. 
 
-The first search result that comes up [Various ways to include comments on your static site](https://darekkay.com/blog/static-site-comments/) seems familiar and Google tells me I have indeed visited this page before. I open up the page and it offers a pretty extensive list of different ways to integrate commenting into a static website like mine split up into different categories. The first one are all third party applications, but I read through them quickly anyway as a plan Z, because you never know. The second category offers up self-hosting options, so I work my way through those as well, but I'm still not sure that's the direction I want to go in. 
+The first search result that comes up [(Various ways to include comments on your static site)](https://darekkay.com/blog/static-site-comments/) seems familiar and Google tells me I have indeed visited this page before. I open up the page and it offers a pretty extensive list of different ways to integrate commenting into a static website like mine split up into different categories. The first one are all third party applications, but I read through them quickly anyway as a plan Z, because you never know. The second category offers up self-hosting options, so I work my way through those as well, but I'm still not sure that's the direction I want to go in. 
 
 ## What I want my commenting system to look like
 Reading through those two categories and its linked documentation does give me a nice indication of what I don't want my commenting system to look like, thus also giving me a clearer idea of what I DO want it to look like;
@@ -58,8 +58,6 @@ I copy/paste my content into a new post file and make the necessary adjustment t
 
 ## Where I left off
 I managed to include most of the html to pass the tests (user stories) and finished the "header" area (full width and height of area visible before a user scrolls, I was struggling to find why the body had a margin when my stylesheet should overwrite that margin;
-
-
 
 ## What I'm doing
 Decided to take another look at the margin issue since it's causing me to have overall lay-out problems ... was ready to post a screenshot on Twitter to ask for help ... glad I didn't because it turned out I put a "#" in front of my body tag in my css file (insert simultaneous eyeroll and facepalm). Glad I caught that right in time! 
